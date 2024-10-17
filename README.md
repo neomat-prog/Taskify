@@ -2,7 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Light Mode:
 ![image](https://github.com/user-attachments/assets/13ea22e4-6f39-4ea4-a25a-e8daa9d0d6e6)
+
+-----------------------------------------------------------------------------------------
+
+Dark Mode:
+![image](https://github.com/user-attachments/assets/f290ec01-357a-4f4b-a394-03c096018d2c)
 
 
 ## Available Scripts
